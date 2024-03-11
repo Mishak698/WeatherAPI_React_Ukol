@@ -1,0 +1,11 @@
+.conteiner {
+    width: 300px;
+
+    position: absolute;
+    top: 9vh;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
